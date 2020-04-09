@@ -1,0 +1,7 @@
+remover algumas palavras, stop words
+Achar documentos onde as palavras ocorrem
+Fazer o parser da query
+Pegar todos os termos da quary e encontrar todos os documentos onde ocorrem as palavras
+Missoes::
+	Melhorar indexador
+	Implementar busca (com and e or)
