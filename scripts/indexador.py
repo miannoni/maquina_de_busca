@@ -1,6 +1,9 @@
 from argparse import ArgumentParser
 
-import search_engine.repository as se
+import sys
+sys.path.insert(0, '../search_engine/')
+
+import repository as se
 
 
 def main():
